@@ -1,0 +1,3 @@
+[submodule "vscode-gnome-workspace-manager"]
+	path = vscode-gnome-workspace-manager
+	url = git@github.com:wxwok/vscode-gnome-workspace-manager.git
