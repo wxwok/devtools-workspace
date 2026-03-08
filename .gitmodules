@@ -1,3 +1,6 @@
 [submodule "vscode-gnome-workspace-manager"]
 	path = vscode-gnome-workspace-manager
 	url = git@github.com:wxwok/vscode-gnome-workspace-manager.git
+[submodule "gnome-sudo-timeout-manager"]
+	path = gnome-sudo-timeout-manager
+	url = git@github.com:wxwok/gnome-sudo-timeout-manager.git
